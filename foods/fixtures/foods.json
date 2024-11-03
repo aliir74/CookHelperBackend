@@ -1,0 +1,399 @@
+[
+    {
+        "name": "قورمه سبزی",
+        "start_to_work_time": 600,
+        "working_time": 30,
+        "cooking_time": 300,
+        "ingredients": [
+            "سبزی قورمه",
+            "گوشت خورشتی",
+            "لیمو امانی",
+            "لوبیا قرمز"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "قیمه",
+        "start_to_work_time": 600,
+        "working_time": 30,
+        "cooking_time": 300,
+        "ingredients": [
+            "گوشت خورشتی",
+            "سیب زمینی",
+            "لپه",
+            "لیمو امانی"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "قیمه بادمجان",
+        "start_to_work_time": 600,
+        "working_time": 30,
+        "cooking_time": 300,
+        "ingredients": [
+            "گوشت خورشتی",
+            "لپه",
+            "سیب زمینی",
+            "لیمو امانی",
+            "بادمجان"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "نیمرو",
+        "start_to_work_time": 0,
+        "working_time": 15,
+        "cooking_time": 15,
+        "ingredients": [
+            "تخم مرغ"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "املت",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 30,
+        "ingredients": [
+            "گوجه فرنگی",
+            "رب گوجه فرنگی",
+            "تخم مرغ"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "عدس پلو",
+        "start_to_work_time": 30,
+        "working_time": 60,
+        "cooking_time": 60,
+        "ingredients": [
+            "عدس",
+            "کشمش",
+            "سیب زمینی",
+            "گوشت چرخ کرده"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "name": "لوبیا پلو",
+        "start_to_work_time": 0,
+        "working_time": 60,
+        "cooking_time": 60,
+        "ingredients": [
+            "لوبیا سبز",
+            "گوشت چرخ کرده",
+            "سیب زمینی"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "name": "استانبولی",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 60,
+        "ingredients": [
+            "گوشت چرخ کرده",
+            "سیب زمینی"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "کشک بادمجان",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 30,
+        "ingredients": [
+            "کشک",
+            "بادمجان"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "عدسی",
+        "start_to_work_time": 300,
+        "working_time": 30,
+        "cooking_time": 300,
+        "ingredients": [
+            "عدس",
+            "سیب زمینی",
+            "پیاز",
+            "رب گوجه فرنگی"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "لوبیا",
+        "start_to_work_time": 600,
+        "working_time": 30,
+        "cooking_time": 30,
+        "ingredients": [
+            "لوبیا قرمز",
+            "پیاز",
+            "رب گوجه فرنگی"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "خورشت فسنجون",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 300,
+        "ingredients": [
+            "گردو آسیاب شده",
+            "هویج",
+            "پیاز",
+            "رب گوجه فرنگی"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "خورشت کرفس",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 300,
+        "ingredients": [
+            "گوشت خورشتی",
+            "کرفس",
+            "پیاز",
+            "رب گوجه فرنگی"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "name": "خورشت بامیه",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 300,
+        "ingredients": [
+            "گوشت خورشتی",
+            "بامیه",
+            "پیاز",
+            "رب گوجه فرنگی"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "name": "پلو مرغ",
+        "start_to_work_time": 0,
+        "working_time": 45,
+        "cooking_time": 60,
+        "ingredients": [
+            "سینه مرغ",
+            "ران مرغ",
+            "پیاز"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "الویه",
+        "start_to_work_time": 0,
+        "working_time": 60,
+        "cooking_time": 30,
+        "ingredients": [
+            "سیب زمینی",
+            "تخم مرغ",
+            "خیارشور",
+            "مایونز"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "ماکارونی",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 60,
+        "ingredients": [
+            "ماکارونی",
+            "گوشت چرخ کرده",
+            "رب گوجه فرنگی"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "لازانیا",
+        "start_to_work_time": 0,
+        "working_time": 60,
+        "cooking_time": 60,
+        "ingredients": [
+            "ورقه لازانیا",
+            "گوشت چرخ کرده",
+            "رب گوجه فرنگی",
+            "قارچ",
+            "پنیر"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "name": "ماهی",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 45,
+        "ingredients": [
+            "ماهی"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "name": "میگو",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 30,
+        "ingredients": [
+            "میگو"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "name": "میگو پلو",
+        "start_to_work_time": 0,
+        "working_time": 45,
+        "cooking_time": 60,
+        "ingredients": [
+            "میگو",
+            "برنج"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "name": "کتلت",
+        "start_to_work_time": 0,
+        "working_time": 45,
+        "cooking_time": 30,
+        "ingredients": [
+            "گوشت چرخ کرده",
+            "سیب زمینی",
+            "پیاز"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "کوکو سبزی",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 30,
+        "ingredients": [
+            "سبزی کوکو",
+            "تخم مرغ"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "کوکو سیب زمینی",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 30,
+        "ingredients": [
+            "سیب زمینی",
+            "تخم مرغ"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "سالاد ماکارونی",
+        "start_to_work_time": 0,
+        "working_time": 45,
+        "cooking_time": 30,
+        "ingredients": [
+            "ماکارونی",
+            "مایونز",
+            "خیارشور"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "تن ماهی",
+        "start_to_work_time": 0,
+        "working_time": 15,
+        "cooking_time": 0,
+        "ingredients": [
+            "تن ماهی"
+        ],
+        "instructions": "",
+        "difficulty": "EASY"
+    },
+    {
+        "name": "استیک",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 30,
+        "ingredients": [
+            "گوشت استیکی"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "name": "ته چین مرغ",
+        "start_to_work_time": 0,
+        "working_time": 60,
+        "cooking_time": 90,
+        "ingredients": [
+            "برنج",
+            "سینه مرغ",
+            "ران مرغ"
+        ],
+        "instructions": "",
+        "difficulty": "HARD"
+    },
+    {
+        "name": "مرغ سوخاری",
+        "start_to_work_time": 0,
+        "working_time": 45,
+        "cooking_time": 45,
+        "ingredients": [
+            "فیله مرغ",
+            "پودر سوخاری"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "name": "خوراک زبان",
+        "start_to_work_time": 0,
+        "working_time": 30,
+        "cooking_time": 180,
+        "ingredients": [
+            "زبان گوساله"
+        ],
+        "instructions": "",
+        "difficulty": "HARD"
+    },
+    {
+        "name": "میرزا قاسمی",
+        "start_to_work_time": 0,
+        "working_time": 45,
+        "cooking_time": 60,
+        "ingredients": [
+            "بادمجان",
+            "تخم مرغ",
+            "گوجه فرنگی"
+        ],
+        "instructions": "",
+        "difficulty": "MEDIUM"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "name": "گوشت خورشتی",
+        "type": "MEAT"
+    },
+    {
+        "name": "سبزی قورمه",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "لیمو امانی",
+        "type": "GRAIN"
+    },
+    {
+        "name": "لپه",
+        "type": "GRAIN"
+    },
+    {
+        "name": "سیب زمینی",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "پیاز",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "بادمجان",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "تخم مرغ",
+        "type": "EGG"
+    },
+    {
+        "name": "گوجه فرنگی",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "عدس",
+        "type": "GRAIN"
+    },
+    {
+        "name": "برنج",
+        "type": "GRAIN"
+    },
+    {
+        "name": "کشمش",
+        "type": "FRUIT"
+    },
+    {
+        "name": "لوبیا سبز",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "گوشت چرخ کرده",
+        "type": "MEAT"
+    },
+    {
+        "name": "هویج",
+        "type": "FRUIT"
+    },
+    {
+        "name": "کشک",
+        "type": "DIARY"
+    },
+    {
+        "name": "بادمجان سرخ شده",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "کرفس",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "رب گوجه فرنگی",
+        "type": "OTHER"
+    },
+    {
+        "name": "لوبیا قرمز",
+        "type": "GRAIN"
+    },
+    {
+        "name": "گردو آسیاب شده",
+        "type": "OTHER"
+    },
+    {
+        "name": "هویج رنده شده",
+        "type": "FRUIT"
+    },
+    {
+        "name": "بامیه",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "سینه مرغ",
+        "type": "MEAT"
+    },
+    {
+        "name": "ران مرغ",
+        "type": "MEAT"
+    },
+    {
+        "name": "خیارشور",
+        "type": "OTHER"
+    },
+    {
+        "name": "مایونز",
+        "type": "DIARY"
+    },
+    {
+        "name": "ماکارونی",
+        "type": "BREAD"
+    },
+    {
+        "name": "ورقه لازانیا",
+        "type": "BREAD"
+    },
+    {
+        "name": "ماهی",
+        "type": "MEAT"
+    },
+    {
+        "name": "میگو",
+        "type": "MEAT"
+    },
+    {
+        "name": "سبزی کوکو",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "تن ماهی",
+        "type": "MEAT"
+    },
+    {
+        "name": "گوشت استیکی",
+        "type": "MEAT"
+    },
+    {
+        "name": "زبان گوساله",
+        "type": "MEAT"
+    },
+    {
+        "name": "پودر سوخاری",
+        "type": "OTHER"
+    },
+    {
+        "name": "فیله مرغ",
+        "type": "MEAT"
+    },
+    {
+        "name": "فیله بوقلمون",
+        "type": "MEAT"
+    },
+    {
+        "name": "قارچ",
+        "type": "VEGETABLE"
+    },
+    {
+        "name": "پنیر",
+        "type": "DIARY"
+    }
+]

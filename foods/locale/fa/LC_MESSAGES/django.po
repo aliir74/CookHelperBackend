@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-29 22:09+0330\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: foods/models/food.py:9
+msgid "Easy"
+msgstr "آسان"
+
+#: foods/models/food.py:10
+msgid "Medium"
+msgstr "متوسط"
+
+#: foods/models/food.py:11
+msgid "Hard"
+msgstr "سخت"
+
+#: foods/models/ingredient.py:20 foods/templates/foods/landing.html:26
+#: foods/views.py:11
+msgid "Vegetable"
+msgstr "سبزیجات"
+
+#: foods/models/ingredient.py:21 foods/templates/foods/landing.html:27
+#: foods/views.py:12
+msgid "Fruit"
+msgstr "میوه"
+
+#: foods/models/ingredient.py:22 foods/templates/foods/landing.html:28
+#: foods/views.py:8
+msgid "Meat"
+msgstr "گوشت"
+
+#: foods/models/ingredient.py:23 foods/templates/foods/landing.html:29
+#: foods/views.py:14
+msgid "Bread"
+msgstr "نان"
+
+#: foods/models/ingredient.py:24 foods/templates/foods/landing.html:30
+#: foods/views.py:13
+msgid "Diary"
+msgstr "لبنیات"
+
+#: foods/models/ingredient.py:25 foods/templates/foods/landing.html:31
+#: foods/views.py:9
+msgid "Egg"
+msgstr "تخم مرغ"
+
+#: foods/models/ingredient.py:26 foods/templates/foods/landing.html:32
+#: foods/views.py:10
+msgid "Grain"
+msgstr "غلات"
+
+#: foods/models/ingredient.py:27 foods/views.py:15
+msgid "Other"
+msgstr "سایر"
